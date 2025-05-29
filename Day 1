@@ -1,0 +1,21 @@
+ 𝗧𝗼𝗽𝗶𝗰: 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗣𝘆𝘁𝗵𝗼𝗻
+✅ Got an overview of Python – a powerful, beginner-friendly, and versatile programming language.
+✅ Installed Python from the official website (https://python.org) 
+✅ Set up PyCharm as my IDE – configured it with Python extensions for a smooth coding experience 🛠️
+
+🎯Challenge - Write a program that prints "Hello, World!" followed by your name
+
+If you're learning Python too, drop a comment or connect — let’s learn together! 🚀
+
+In this code I used f string method and escape characters
+
+🔸 f-string → f"Hello, World!\n\tMy name is {name}"
+💠 f"" tells Python: "This string will have variables inside {} that should be evaluated."
+💠 {name} → Will be replaced by the value of the variable name.
+
+
+🔸 Escape characters: \n and \t
+💠 \n → New Line
+ Moves the cursor to the next line.
+💠 \t → Tab Space
+ Adds a horizontal tab (usually about 4–8 spaces, depending on your editor/terminal).
